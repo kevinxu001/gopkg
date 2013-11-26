@@ -26,7 +26,7 @@
         - elliptic    : ###				-
         - hmac        : zhanming		2013-03-20 	finished
         - md5         : zhanming		2013-03-26	finished
-        - rand        : ###				-
+        - rand        : Neeke			-
         - rc4         : zhanming		2013-03-25 	finished
         - rsa         : ###				-
         - sha1        : zhanming		2013-03-26	finished
@@ -57,7 +57,7 @@
         - pem         : ###				-
         - xml         : 0x55aa			2013-03-15
     errors            : ###				-
-    expvar            : ###				-
+    expvar            : fairlyblank		2013-07-16	finished
     flag              : wankai			-
     fmt               : liudch			2013-03-08	finished
     go                : ###				-
@@ -114,13 +114,13 @@
         - debug       : wendal			2013-03-10
         - pprof       : ###				-
     sort              : Hubery			2013-03-09	finished
-    strconv           : chenzhekl		-
+    strconv           : sun8911879		-
     strings           : astaxie			2013-03-08	finished
     sync              : SnowWee			2013-03-23  finished
         - atomic      : SnowWee			2013-03-23  finished
     syscall           : ###				-
     testing           : hyper-carrot	2013-03-26
-        - iotest      : ###				-
+        - iotest      : Neeke			-
         - quick       : ###				-
     text              : ###				-
         - scanner     : cdxahz			2013-03-08  finished
@@ -129,5 +129,5 @@
     time              : xuyuanp			-
     unicode           : ###				-
         - uft16       : ###				-
-        - uft8        : ###				-
+        - uft8        : wangtuanjie
     unsafe            : SnowWee			2013-04-03
